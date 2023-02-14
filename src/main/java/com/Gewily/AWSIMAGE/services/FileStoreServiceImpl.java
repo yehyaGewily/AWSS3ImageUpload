@@ -58,6 +58,7 @@ public class FileStoreServiceImpl implements FileStoreService {
 		
 		
 try {
+	
 			
 			log.info(">>>>>>[Downloading img to S3]");
 			log.info(">>>>>image path: "+imgPath);
